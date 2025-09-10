@@ -10,3 +10,4 @@ python-dotenv
 pypdf
 python-docx
 docx2txt
+unstructured
