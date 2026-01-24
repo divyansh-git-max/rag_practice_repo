@@ -2,8 +2,8 @@ langchain
 langchain-groq
 faiss-cpu
 tiktoken
-langchain_community
-langchain_openai
+langchain-community
+langchain-openai
 chromadb
 sentence-transformers
 python-dotenv
@@ -11,4 +11,7 @@ pypdf
 python-docx
 docx2txt
 unstructured
-langchain_core
+langgraph
+langchain-core
+ipykernel
+python-dotenv
