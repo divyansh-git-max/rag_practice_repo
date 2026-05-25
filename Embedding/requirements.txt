@@ -12,3 +12,4 @@ python-docx
 docx2txt
 unstructured
 langchain_core
+langchain_huggingface
